@@ -15,7 +15,7 @@
 
 <div align="center">
   <a href="https://github.com/PaulaCCarvalho">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PaulaCCarvalho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PaulaCCarvalho&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PaulaCCarvalho&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
